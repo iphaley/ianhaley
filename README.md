@@ -101,8 +101,6 @@ These are my hobbies y-
 | 2022 | Junior | 3.8 |
 | 2023 | Senior | 3.7 |
 
-## My Favorite Pictures
-
-![Picture 1](https://en.wikipedia.org/wiki/K2#/media/File:Chogori.jpg](https://cdn.britannica.com/17/83817-050-67C814CD/Mount-Everest.jpg)
+## My Favorite Picture
 
 ![Picture 2](https://www.fijivacations.com/wp-content/uploads/2016/05/Yatule-Resort-and-Spa-the-heart-and-soul-of-Natadola-Beach.jpg?2512c4&2512c4)
